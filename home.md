@@ -10,7 +10,7 @@ dateCreated: 2023-06-10T15:10:34.385Z
 
 # Welcome!
 
-![Logo](./assets/Logo_long.png =250x)
+![Logo](./assets/banner.png)
 
 Welcome to Jay's Wiki.
 
