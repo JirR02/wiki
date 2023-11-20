@@ -3,14 +3,14 @@ title: Welcome
 description: Welcome to JirR02 Docs
 published: 1
 date: 2023-11-07T17:39:22.621Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2023-06-10T15:10:34.385Z
 ---
 
 # Welcome!
 
-![Logo](./assets/Logo_long.png = 250x)
+![Logo](./assets/Logo_long.png =250x)
 
 Welcome to Jay's Wiki.
 
