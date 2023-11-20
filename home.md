@@ -10,6 +10,8 @@ dateCreated: 2023-06-10T15:10:34.385Z
 
 # Welcome!
 
+![Logo](./assets/Logo_long.png)
+
 Welcome to Jay's Wiki.
 
 Here you can find useful information about Coding, 3D Printing, Electronics, and much more!
