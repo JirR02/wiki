@@ -2,8 +2,8 @@
 title: Welcome
 description: Welcome to JirR02 Docs
 published: 1
-date: 2023-06-10T16:03:47.339Z
-tags:
+date: 2023-11-07T17:39:22.621Z
+tags: 
 editor: markdown
 dateCreated: 2023-06-10T15:10:34.385Z
 ---
